@@ -1,0 +1,12 @@
+<dependencies>
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-controls</artifactId>
+        <version>19.0.2</version> <!-- Use the latest version -->
+    </dependency>
+    <dependency>
+        <groupId>org.openjfx</groupId>
+        <artifactId>javafx-fxml</artifactId>
+        <version>19.0.2</version> <!-- Use the latest version -->
+    </dependency>
+</dependencies>
